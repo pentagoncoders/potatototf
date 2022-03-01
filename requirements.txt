@@ -1,6 +1,0 @@
-tensorflow==2.5
-pillow==8.4.0
-uvicorn==0.16.0
-fastapi==0.70.1
-file-io==0.2.0
-numpy==1.21.5
